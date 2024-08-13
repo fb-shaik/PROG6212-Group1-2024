@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Health_Fitness_Tracker\bin\Debug\Health_Fitness_Tracker.exe.config
+C:\Users\User\source\repos\Health_Fitness_Tracker\bin\Debug\Health_Fitness_Tracker.exe
+C:\Users\User\source\repos\Health_Fitness_Tracker\bin\Debug\Health_Fitness_Tracker.pdb
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.Form1.resources
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.Properties.Resources.resources
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.exe
+C:\Users\User\source\repos\Health_Fitness_Tracker\obj\Debug\Health_Fitness_Tracker.pdb
