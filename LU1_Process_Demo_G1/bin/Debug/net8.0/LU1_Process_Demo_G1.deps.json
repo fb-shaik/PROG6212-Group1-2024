@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LU1_Process_Demo_G1/1.0.0": {
+        "runtime": {
+          "LU1_Process_Demo_G1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LU1_Process_Demo_G1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
