@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.AssemblyInfo.cs
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\bin\Debug\net8.0\TaskManager_Attributes_demo.exe
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\bin\Debug\net8.0\TaskManager_Attributes_demo.deps.json
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\bin\Debug\net8.0\TaskManager_Attributes_demo.runtimeconfig.json
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\bin\Debug\net8.0\TaskManager_Attributes_demo.dll
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\bin\Debug\net8.0\TaskManager_Attributes_demo.pdb
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.dll
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\refint\TaskManager_Attributes_demo.dll
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.pdb
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\TaskManager_Attributes_demo.genruntimeconfig.cache
+C:\Users\User\source\repos\TaskManager_Attributes_demo\TaskManager_Attributes_demo\obj\Debug\net8.0\ref\TaskManager_Attributes_demo.dll

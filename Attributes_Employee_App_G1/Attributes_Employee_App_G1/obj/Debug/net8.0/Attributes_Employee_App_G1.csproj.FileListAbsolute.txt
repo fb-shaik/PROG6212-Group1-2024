@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\bin\Debug\net8.0\Attributes_Employee_App_G1.exe
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\bin\Debug\net8.0\Attributes_Employee_App_G1.deps.json
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\bin\Debug\net8.0\Attributes_Employee_App_G1.runtimeconfig.json
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\bin\Debug\net8.0\Attributes_Employee_App_G1.dll
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\bin\Debug\net8.0\Attributes_Employee_App_G1.pdb
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.AssemblyInfo.cs
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.dll
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\refint\Attributes_Employee_App_G1.dll
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.pdb
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\Attributes_Employee_App_G1.genruntimeconfig.cache
+C:\Users\User\source\repos\Attributes_Employee_App_G1\Attributes_Employee_App_G1\obj\Debug\net8.0\ref\Attributes_Employee_App_G1.dll
