@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Struct_Class_Gr1\bin\Debug\net8.0\Struct_Class_Gr1.exe
+C:\Users\User\source\repos\Struct_Class_Gr1\bin\Debug\net8.0\Struct_Class_Gr1.deps.json
+C:\Users\User\source\repos\Struct_Class_Gr1\bin\Debug\net8.0\Struct_Class_Gr1.runtimeconfig.json
+C:\Users\User\source\repos\Struct_Class_Gr1\bin\Debug\net8.0\Struct_Class_Gr1.dll
+C:\Users\User\source\repos\Struct_Class_Gr1\bin\Debug\net8.0\Struct_Class_Gr1.pdb
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.AssemblyInfo.cs
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.dll
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\refint\Struct_Class_Gr1.dll
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.pdb
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\Struct_Class_Gr1.genruntimeconfig.cache
+C:\Users\User\source\repos\Struct_Class_Gr1\obj\Debug\net8.0\ref\Struct_Class_Gr1.dll

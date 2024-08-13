@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LU1 - Object_Generations\bin\Debug\net8.0\LU1 - Object_Generations.exe
+C:\Users\User\source\repos\LU1 - Object_Generations\bin\Debug\net8.0\LU1 - Object_Generations.deps.json
+C:\Users\User\source\repos\LU1 - Object_Generations\bin\Debug\net8.0\LU1 - Object_Generations.runtimeconfig.json
+C:\Users\User\source\repos\LU1 - Object_Generations\bin\Debug\net8.0\LU1 - Object_Generations.dll
+C:\Users\User\source\repos\LU1 - Object_Generations\bin\Debug\net8.0\LU1 - Object_Generations.pdb
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.AssemblyInfo.cs
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.dll
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\refint\LU1 - Object_Generations.dll
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.pdb
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\LU1 - Object_Generations.genruntimeconfig.cache
+C:\Users\User\source\repos\LU1 - Object_Generations\obj\Debug\net8.0\ref\LU1 - Object_Generations.dll

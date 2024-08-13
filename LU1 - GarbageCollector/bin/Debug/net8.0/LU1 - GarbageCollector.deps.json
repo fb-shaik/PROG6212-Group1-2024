@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LU1 - GarbageCollector/1.0.0": {
+        "runtime": {
+          "LU1 - GarbageCollector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LU1 - GarbageCollector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
