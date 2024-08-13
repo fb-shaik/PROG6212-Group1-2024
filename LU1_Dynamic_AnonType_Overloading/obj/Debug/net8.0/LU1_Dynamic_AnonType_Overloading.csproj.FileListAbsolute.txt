@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\bin\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.exe
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\bin\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.deps.json
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\bin\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.runtimeconfig.json
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\bin\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.dll
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\bin\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.pdb
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.AssemblyInfo.cs
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.dll
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\refint\LU1_Dynamic_AnonType_Overloading.dll
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.pdb
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\LU1_Dynamic_AnonType_Overloading.genruntimeconfig.cache
+C:\Users\User\source\repos\LU1_Dynamic_AnonType_Overloading\obj\Debug\net8.0\ref\LU1_Dynamic_AnonType_Overloading.dll
