@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\bin\Debug\net8.0-windows\Activity_Manager_LINQ_App.exe
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\bin\Debug\net8.0-windows\Activity_Manager_LINQ_App.deps.json
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\bin\Debug\net8.0-windows\Activity_Manager_LINQ_App.runtimeconfig.json
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\bin\Debug\net8.0-windows\Activity_Manager_LINQ_App.dll
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\bin\Debug\net8.0-windows\Activity_Manager_LINQ_App.pdb
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.Form1.resources
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.AssemblyInfo.cs
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.dll
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\refint\Activity_Manager_LINQ_App.dll
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.pdb
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\Activity_Manager_LINQ_App.genruntimeconfig.cache
+C:\Users\User\source\repos\Activity_Manager_LINQ_App\Activity_Manager_LINQ_App\obj\Debug\net8.0-windows\ref\Activity_Manager_LINQ_App.dll
