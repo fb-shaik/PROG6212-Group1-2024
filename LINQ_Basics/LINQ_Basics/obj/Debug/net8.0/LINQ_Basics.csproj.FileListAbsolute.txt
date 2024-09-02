@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\bin\Debug\net8.0\LINQ_Basics.exe
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\bin\Debug\net8.0\LINQ_Basics.deps.json
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\bin\Debug\net8.0\LINQ_Basics.runtimeconfig.json
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\bin\Debug\net8.0\LINQ_Basics.dll
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\bin\Debug\net8.0\LINQ_Basics.pdb
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.AssemblyInfo.cs
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.dll
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\refint\LINQ_Basics.dll
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.pdb
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\LINQ_Basics.genruntimeconfig.cache
+C:\Users\User\source\repos\LINQ_Basics\LINQ_Basics\obj\Debug\net8.0\ref\LINQ_Basics.dll
