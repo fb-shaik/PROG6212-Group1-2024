@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\prjOverloadOperator_Demo\bin\Debug\net8.0\prjOverloadOperator_Demo.exe
+C:\Users\User\source\repos\prjOverloadOperator_Demo\bin\Debug\net8.0\prjOverloadOperator_Demo.deps.json
+C:\Users\User\source\repos\prjOverloadOperator_Demo\bin\Debug\net8.0\prjOverloadOperator_Demo.runtimeconfig.json
+C:\Users\User\source\repos\prjOverloadOperator_Demo\bin\Debug\net8.0\prjOverloadOperator_Demo.dll
+C:\Users\User\source\repos\prjOverloadOperator_Demo\bin\Debug\net8.0\prjOverloadOperator_Demo.pdb
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.AssemblyInfo.cs
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.dll
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\refint\prjOverloadOperator_Demo.dll
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.pdb
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\prjOverloadOperator_Demo.genruntimeconfig.cache
+C:\Users\User\source\repos\prjOverloadOperator_Demo\obj\Debug\net8.0\ref\prjOverloadOperator_Demo.dll
