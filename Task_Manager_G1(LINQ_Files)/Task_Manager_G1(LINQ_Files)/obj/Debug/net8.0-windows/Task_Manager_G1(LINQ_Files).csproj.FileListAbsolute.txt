@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\bin\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).exe
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\bin\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).deps.json
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\bin\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).runtimeconfig.json
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\bin\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).dll
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\bin\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).pdb
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1_LINQ_Files_.Personal_Task_Manager.resources
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).AssemblyInfo.cs
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).dll
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\refint\Task_Manager_G1(LINQ_Files).dll
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).pdb
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\Task_Manager_G1(LINQ_Files).genruntimeconfig.cache
+C:\Users\User\source\repos\Task_Manager_G1(LINQ_Files)\Task_Manager_G1(LINQ_Files)\obj\Debug\net8.0-windows\ref\Task_Manager_G1(LINQ_Files).dll
