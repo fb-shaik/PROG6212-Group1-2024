@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\IDisposable\bin\Debug\net8.0\IDisposable.exe
+C:\Users\User\source\repos\IDisposable\bin\Debug\net8.0\IDisposable.deps.json
+C:\Users\User\source\repos\IDisposable\bin\Debug\net8.0\IDisposable.runtimeconfig.json
+C:\Users\User\source\repos\IDisposable\bin\Debug\net8.0\IDisposable.dll
+C:\Users\User\source\repos\IDisposable\bin\Debug\net8.0\IDisposable.pdb
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.AssemblyInfo.cs
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.dll
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\refint\IDisposable.dll
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.pdb
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\IDisposable.genruntimeconfig.cache
+C:\Users\User\source\repos\IDisposable\obj\Debug\net8.0\ref\IDisposable.dll
