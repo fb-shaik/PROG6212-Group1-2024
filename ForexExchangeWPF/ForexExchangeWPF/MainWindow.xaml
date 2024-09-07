@@ -1,0 +1,38 @@
+﻿<Window x:Class="ForexExchangeWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Forex Exchange Rates" Height="450" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="UpdateRatesButton" Content="Update Rates" Click="UpdateRatesButton_Click" 
+                Margin="0,0,0,10" Padding="10,5"/>
+
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="AmountTextBox" Text="1" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="CurrencyComboBox" Grid.Column="1" Width="70" Margin="5,0,0,0"/>
+            <Button x:Name="ConvertButton" Content="Convert" Click="ConvertButton_Click" 
+                    Grid.Column="2" Margin="5,0,0,0" Padding="10,5"/>
+        </Grid>
+
+        <DataGrid x:Name="RatesListView" Grid.Row="2" AutoGenerateColumns="False" 
+                  CellEditEnding="RatesListView_CellEditEnding" ItemsSource="{Binding}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Currency" Binding="{Binding Currency}" IsReadOnly="True" Width="*"/>
+                <DataGridTextColumn Header="Rate" Binding="{Binding Rate}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock x:Name="ResultTextBlock" Grid.Row="3" Margin="0,10,0,0" TextWrapping="Wrap"/>
+    </Grid>
+</Window>

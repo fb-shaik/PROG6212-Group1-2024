@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForexExchangeWPF", "ForexExchangeWPF\ForexExchangeWPF.csproj", "{14EB1AB5-0B5C-4329-AE36-8762BED2F85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14EB1AB5-0B5C-4329-AE36-8762BED2F85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EB1AB5-0B5C-4329-AE36-8762BED2F85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EB1AB5-0B5C-4329-AE36-8762BED2F85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EB1AB5-0B5C-4329-AE36-8762BED2F85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3E891B-C692-4FC8-89F3-9C43B05BD038}
+	EndGlobalSection
+EndGlobal
